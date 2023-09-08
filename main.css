@@ -1,0 +1,20 @@
+body
+{
+    background-color: rgb(106, 112, 129, 0.911);
+    background-image: url("https://www.jojohouse.com/wp-content/uploads/2019/02/-e1549781131546.jpg") ;
+}
+
+h1
+{
+    color: rgb(81, 105, 126);
+}
+
+p
+{
+    color: rgb(84, 84, 102);
+}
+
+.color-purple
+{
+    color: rgba(106, 112, 129, 0.911);
+}
